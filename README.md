@@ -1,38 +1,15 @@
-# expense-tracker
-build using python to keep he track of all daily expenses and manage budget
-Expense Tracker (DSA-Based)
-This project is a simple Expense Tracker built using fundamental Data Structures and Algorithms (DSA). It helps users to add, delete, search, and analyze expenses efficiently, showcasing practical DSA implementations in a real-world application.
+Hey folks,
 
-Features
-Add Expenses: Add new expenses with description, amount, and date.
+Thanks to everyone who joined this week’s 24-hour challenge.
 
-Delete Expenses: Remove expenses using unique identifiers or filters.
+That was awesome to see so many wonderful submissions, it always makes it so difficult to pick a winner. I personally had about 10 favourites!! :heart_eyes:
 
-Search Expenses: Find expenses by date, category, or description using efficient search algorithms.
+After we reviewed all the submissions, we decided that this week’s winner is @flight-meteorologis5 for their creative and personal take on a Migration API. :trophy:
 
-Sort & Filter: Sort expenses by amount/date using sorting algorithms (e.g., quicksort, mergesort).
+It felt like a useful solution to a real world problem - it would help people figure out the best way to move or relocate to another country based on a their own set of personal data points.
 
-Monthly Summary: View total spending, category-wise analysis, and trends.
+Instead of digging through government websites (This is just the worst if you have ever done this), going through a very long and confusing visa process or paying expensive consultants, you’d get clear, personalised info on where you could go, what visa to apply for, how much it might cost, and how long it could take. :heart:
 
-DSA Concepts Used
-Linked Lists: To store expenses dynamically and allow easy insertion/deletion.
+If you missed out this time, don’t worry we have you covered…
 
-Hash Maps: For quick lookup and categorization of expenses.
-
-Stacks/Queues: (Optional) To manage undo/redo operations.
-
-Sorting Algorithms: To sort expenses by amount or date.
-
-Searching Algorithms: To quickly find relevant expense records.
-
-Custom Data Structures: Built a custom ExpenseManager class to simulate real-world data handling.
-
-Technologies Used
-Language: Python
-
-How to Run
-Clone the repository
-
-Navigate to the project directory
-
-Run the main file:
+The next community challenge drops on Wednesday 16th at 10am GMT. 
